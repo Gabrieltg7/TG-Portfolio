@@ -66,7 +66,7 @@ dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de deciçõe
 O projeto proposto pela empresa Ness, se consiste em desenvolver uma plataforma de ensino (LMS) para auxiliar na aplicação de cursos e treinamentos EaD, fortificado pela pandemia do corona vírus em 2021.
 
 **Problema**
-Empresas e profissionaos que realizavam treinamentos e cursos presencialmente tiveram a necessidade de aplicação EaD, devido a pandemia do corona vírus.
+Empresas e profissionais que realizavam treinamentos e cursos presencialmente tiveram a necessidade de aplicação EaD, devido a pandemia do corona vírus.
 
 **Solução**
 A solução desenvolvida pela equipe foi, criar uma plataforma que unificasse as aulas sincronas e assincronas, com contato facilitado do aplicador com o usuário da plataforma.
@@ -77,10 +77,10 @@ A solução desenvolvida pela equipe foi, criar uma plataforma que unificasse as
 
 #### **Tecnologias Utilizadas**
 Java - Linguagem desktop utilizando orientação a objeto para o back-end.
-ReactJS - Framework java script para o front-end.
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> - Framework java script para o front-end.
 Css - para a formatação da folha de estilo das páginas do front-end.
-PostgreSql - Software de gerenciamento de banco de dados utilizando sql.
-Figma - Ferramenta de prototipação de telas.
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> - Software de gerenciamento de banco de dados utilizando sql.
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> - Ferramenta de prototipação de telas.
 Spring Boot - para a contrução e inicialização do projeto java.
 Github - versionamento de projeto utilizando git.
 
@@ -99,6 +99,88 @@ Github - Sei fazer com autonomia.
 #### **Soft Skills**
 Organização e versionamento de projeto, trabalar com prazos, lidar com cliente, 
 dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de decições.
+
+### **Em 2021-2**
+O projeto proposto pela empresa Embraer, se consiste em gerenciar documentos, desde a integridade das informações, quanto gerar documentos novos.
+
+**Problema**
+A empresa parceira utilizava de um arquivo excel para fazer a integridade das informações dos documentos, que poderiam ficar inconsistentes, além do trabalho operacional de atualizar os documentos.
+
+ **Solução**
+Foi desenvolvido uma plataforma web, onde o arquiro excel (codelist), poderia ser importado e assim o gerenciamento de novas linhas do arquivo, quanto da integridade das informações e a criação dos documentos seriam feitas de forma automatizadas.
+
+https://user-images.githubusercontent.com/62018632/136726488-b05ca30e-b1ea-434b-a4d2-6776f9a7921e.mp4 <br/>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Personaliza-o-de-Documentos--Time-AirGhost)
+
+#### **Tecnologias Utilizadas** 💻
+- _Languages_<br>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><br>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br>
+- _FrameWorks_<br>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+- _Database_<br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+- _Prototype Plataform_<br>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br>
+
+#### **Contribuições Pessoais**
+Realizei a estruturação de pastas do front e comandei a time de front-end, com tasks majoritariamento utilizando react e pequenas com nodejs.
+
+#### **Hard Skills**
+React, javascript - Sei fazer com autonomia.
+Node, typescript - Sei fazer.
+PostgreSql - Sei fazer com autonomia.
+Wireframes - Sei fazer com autonomia.
+
+
+#### **Soft Skills**
+Organizar e orientar membros do time em partes tecnicas e de estrutura do projeto.
+Metodologia agil. 
+
+### **Em 2022-1**
+A empresa Embraer propôs um projeto onde deveriamos criar um aplicativo mobile onde teriamos a visualização de FOLs (procedimento para falhas).
+
+**Problema**
+A empresa parceira precisa notificar os motoristas que compraram seus veiculos, com procedimentos padrões em casos de possíveis falhas.
+
+ **Solução**
+Foi desenvolvido um aplicativo mobile que facilita a notificação dos motoristas, toda vez que for emitida uma FOLs para um veículo que o motorista possuí, é enviado uma notificação no celular do motorista cadastrado no aplicativo.
+
+https://user-images.githubusercontent.com/62018632/163511036-9d59f5da-16ba-4b91-8cce-a8a7a83cdcaf.mp4
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
+
+
+#### **Tecnologias Utilizadas** 💻
+
+[![forthebadge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
+
+[![forthebadge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+[![forthebadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
+
+[![forthebadge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+
+[![forthebadge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br)
+
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+
+#### **Contribuições Pessoais**
+Realizei a integração com o back-end no react-native com o front-end, a tela de login, pesquisa por palavra chave, grafico de horas visualizadas no react web e ajudei nas demais partes, como visualização de pdf e notificação no celular.
+
+#### **Hard Skills**
+React, javascript - Sei fazer com autonomia.
+React-native, javascript - Sei fazer com autonomia.
+Node, typescript - Sei fazer.
+MongoDB - Sei fazer com ajuda.
+Wireframes - Sei fazer com autonomia.
+
+
+#### **Soft Skills**
+Organizar e orientar membros do time em partes tecnicas e de estrutura do projeto.
+Metodologia agil. 
+
 
 ### **Meus Principais Conhecimentos**
 Desenvolvimento web com React, React-native, Java web, Css, bootstrap e Javascript.
