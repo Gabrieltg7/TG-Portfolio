@@ -2,7 +2,7 @@
 
 ## **Introdução**
 
-Meu primeiro contato com programação foi aos 15 anos, no técnico realizado na Etec de São José dos Campos, onde tive contado com diversas linguagens, como: java, c#, java script, php e sql, além de html e CSS, realizei o TCC em c# e utilizando a plataforma unity, onde foi foi criado um jogo educativo, utilizando uma pirâmide de holograma. Participei de 2 maratonas de programação e 2 OBIs, entre o ensino técnico e a faculdade. Tenho experiência de 1 ano e meio de estágio de desenvolvimento na empresa Quero Educação.
+Meu primeiro contato com programação foi aos 15 anos, no técnico realizado na Etec de São José dos Campos, onde aprendi diversas linguagens, como: java, c#, java script, php e sql, além de html e CSS, realizei o TCC em c# e utilizando a plataforma unity, onde foi criado um jogo educativo, utilizando uma pirâmide de holograma. Participei de 3 maratonas de programação e 2 OBIs, entre o ensino técnico e a faculdade. Faço faculdade na Fatec São José dos Campos, no curso de análise e desenvolvimento de sistemas. Tenho experiência de 1 ano e meio de estágio de desenvolvimento na empresa Quero Educação.
 
 ## **Meus Projetos**
 
@@ -10,66 +10,73 @@ Meu primeiro contato com programação foi aos 15 anos, no técnico realizado na
 O projeto desenvolvido teve como objetivo de solucionar um problema real através do uso um aplicativo android e um hardware de auxiliar.
 
 **Problema**
-Uma empresa utiliza travas automáticas com níveis de acesso e quer otimizar o uso dessas travas, aumentando o nível de segurança. Para isso, é necessário o monitoramento de quantidade de usos dessas travas, e por quem estão sendo utilizadas. Outro ponto para otimização do uso dessa travas é diminuir as ocorrências de perda de acesso por ausência de chaves magnéticas.
+Uma empresa utiliza travas automáticas com níveis de acesso e quer otimizar o uso dessas travas, aumentando o nível de segurança. Para isso, é necessário o monitoramento de quantidade de usos dessas travas, e por quem estão sendo utilizadas. Outro ponto para otimização do uso dessas travas é diminuir as ocorrências de perda de acesso por ausência de chaves magnéticas.
 
 **Solução**
-Com base nesse cenário, desenvolvemos  um aplicativo que permite o acesso do usuário por meio de um aplicativo, substituindo o uso de chaves magnéticas e assim, diminuindo o problema de falta de acesso por de perda do objeto, pelo fato de ser menos provável a perda de um celular. O aplicativo além de facilitar o acesso, armazena os dados de quem e quando foi acessado as travas de segurança, esses dados são coletados para o monitoramento de entradas e saídas, dessa forma, otimizando a segurança da empresa.
+Com base nesse cenário, desenvolvemos um aplicativo que permite o acesso do usuário por meio de um aplicativo, substituindo o uso de chaves magnéticas e assim, diminuindo o problema de falta de acesso por de perda do objeto, pelo fato de ser menos provável a perda de um celular. O aplicativo além de facilitar o acesso, armazena os dados de quem e quando foi acessado as travas de segurança, esses dados são coletados para o monitoramento de entradas e saídas, dessa forma, otimizando a segurança da empresa.
 
+Devido a pandemia que teve início durante a realização do curso, a integração do hardware com o software ficou apenas na parte teorica.
 
 #### **Tecnologias Utilizadas**
-Programação em blocos utilizando MIT AppInventor 2, site de crianção de aplicativos android de forma simplificada devido a utilização de programação em blocos e componentes vizuais que eram colocados no frame sem a utilização de código, apenas com seleção dos componentes, de forma gratuita.
+Programação em blocos utilizando MIT AppInventor 2, site de criação de aplicativos android de forma simplificada devido a utilização de programação em blocos e componentes visuais que eram colocados no frame sem a utilização de código, apenas com seleção dos componentes, de forma gratuita.
 
 #### **Contribuições Pessoais**
-Realizei grande parte da programação do aplicativo, desde a parte vizual quanto as lógicas aplicadas, como o scan do QR code e a verificação se o usuario tinha ou não permissão e a tela de sucesso ou falha em caso de tentativa de acionar a trava.
+Realizei grande parte da programação do aplicativo, desde a parte visual quanto as lógicas aplicadas, como o scan do QR code e a verificação se o usuário tinha ou não permissão e a tela de sucesso ou falha em caso de tentativa de acionar a trava.
 
 #### **Hard Skills**
 Programação em blocos - Sei fazer com autonomia.
 
 
 #### **Soft Skills**
-Trabalhar com metodologia scrum, dividir tarefas e acompanhar resultados de parceiros, organização, planejamento para ter tempo agíl para as entregas no prazo, comunicação e desenvolver soluções em conjunto.
+Trabalhar com metodologia scrum, dividir tarefas e acompanhar resultados de parceiros, organização, planejamento para ter tempo ágil para as entregas no prazo, comunicação e desenvolver soluções em conjunto.
 
 ### **Em 2020-2**
-O projeto proposto pela empresa Iacit, se consiste em desenvolver um software em java para o gerenciamento de jornada de motoristas durante a relização de entregas.
+O projeto proposto pela empresa Iacit, se consiste em desenvolver um software em java para o gerenciamento de jornada de motoristas durante a realização de entregas.
 
 **Problema**
-A embresa sofre com a falta de monitoramento nas entregas e com adiversidades desconhecidas que ocorrem durante o percurso.
+A empresa sofre com a falta de monitoramento nas entregas e com adversidades desconhecidas que ocorrem durante o percurso.
 
 **Solução**
-Devido ao problema apresentado, o time desenvolveu um software que cadastra veículos e motoristas, disponibilizando para o adimistrador atribuir uma entrega, relacionandos eles e acompanhando a localização, podendo receber mensagens do motorista sobre possíveis adiversidades.
+Devido ao problema apresentado, o time desenvolveu um software que cadastra veículos e motoristas, disponibilizando para o administrador atribuir uma entrega, relacionando eles e acompanhando a localização, podendo receber mensagens do motorista sobre possíveis adversidades.
 
 [![Watch the video](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png)](https://drive.google.com/file/d/1SGyTxG4Z9723u_FH5SWndtdmvuLje1AI/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
 #### **Tecnologias Utilizadas**
 Java - Linguagem desktop utilizando orientação a objeto.
-Hibernate - Mapeamento obejeto relacional do Java.
+Hibernate - Mapeamento objeto relacional do Java.
 PostgreSql - Software de gerenciamento de banco de dados utilizando sql.
 Figma - Ferramenta de prototipação de telas.
 
 #### **Contribuições Pessoais**
 Realizei a construção do mapeamento dos campos do banco de dados para as classes e controllers do Java, utilizando o hibernate.
-Realizei o crud dos veiculos e parte do crud dos motoristas.
+Realizei o crud dos veículos e parte do crud dos motoristas.
 
 #### **Hard Skills**
-Java, Orintação a objeto - Sei fazer com autonomia.
+Java, Orientação a objeto - Sei fazer com autonomia.
 Hibernate, ORM - Sei fazer com autonomia.
 PostgreSql - Sei fazer com autonomia.
 Wireframes - Sei fazer com autonomia.
 
 
 #### **Soft Skills**
-Organização de projeto, trabalar com prazos, lidar com cliente, 
-dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de decições.
+Organização de projeto, trabalhar com prazos, lidar com cliente, 
+dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de decisões.
 
 ### **Em 2021-1**
-O projeto proposto pela empresa Ness, se consiste em desenvolver uma plataforma de ensino (LMS) para auxiliar na aplicação de cursos e treinamentos EaD, fortificado pela pandemia do corona vírus em 2021.
+O projeto proposto pela empresa Ness, se consiste em desenvolver uma plataforma de ensino (LMS) para auxiliar na aplicação de cursos e treinamentos EaD, fortificado pela pandemia da corona vírus em 2021.
 
 **Problema**
-Empresas e profissionais que realizavam treinamentos e cursos presencialmente tiveram a necessidade de aplicação EaD, devido a pandemia do corona vírus.
+Empresas e profissionais que realizavam treinamentos e cursos presencialmente tiveram a necessidade de aplicação EaD, devido a pandemia da corona vírus.
 
 **Solução**
-A solução desenvolvida pela equipe foi, criar uma plataforma que unificasse as aulas sincronas e assincronas, com contato facilitado do aplicador com o usuário da plataforma.
+A solução desenvolvida pela equipe foi criar uma plataforma que unificasse as aulas síncronas e assíncronas, com contato facilitado do aplicador com o usuário da plataforma.
+
+Devido ao tamanho do projeto, o escopo realizado ficou limitado a:
+disponibilização de conteúdos disversos pelo professor cadastrado;
+Inscrição de alunos nos cursos/treinamentos que estão cadastrados;
+Disponibilização do link do meet para aulas assíncronas pelo professor;
+comentários e classificação de cursos pelos alunos;
 
 [![Watch the video](https://media.discordapp.net/attachments/524268092914663424/970877530682830848/unknown.png?width=1025&height=482)](https://user-images.githubusercontent.com/62018632/120943019-cf7efc80-c702-11eb-97b8-9eb7433cda8e.mp4)
 
@@ -77,18 +84,18 @@ A solução desenvolvida pela equipe foi, criar uma plataforma que unificasse as
 
 #### **Tecnologias Utilizadas**
 Java - Linguagem desktop utilizando orientação a objeto para o back-end.
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> - Framework java script para o front-end.
+React - Framework java script para o front-end.
 Css - para a formatação da folha de estilo das páginas do front-end.
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> - Software de gerenciamento de banco de dados utilizando sql.
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> - Ferramenta de prototipação de telas.
-Spring Boot - para a contrução e inicialização do projeto java.
+PostgreSQL - Software de gerenciamento de banco de dados utilizando sql.
+Figma - Ferramenta de prototipação de telas.
+Spring Boot - para a construção e inicialização do projeto java.
 Github - versionamento de projeto utilizando git.
 
 #### **Contribuições Pessoais**
 Criei a tela de login pelo front-end, página principal e aba de comentários. Ajudei com parte do back-end crud. Ajudei na criação das tabelas do banco de dados.
 
 #### **Hard Skills**
-Java, Orintação a objeto - Sei fazer com autonomia.
+Java, Orientação a objeto - Sei fazer com autonomia.
 Css - Sei fazer com autonomia.
 PostgreSql - Sei fazer com autonomia.
 Wireframes - Sei fazer com autonomia.
@@ -97,8 +104,8 @@ Github - Sei fazer com autonomia.
 
 
 #### **Soft Skills**
-Organização e versionamento de projeto, trabalar com prazos, lidar com cliente, 
-dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de decições.
+Organização e versionamento de projeto, trabalhar com prazos, lidar com cliente, 
+dividir tarefas, oferecer ajuda a parceiros, comunicação e tomada de decisões.
 
 ### **Em 2021-2**
 O projeto proposto pela empresa Embraer, se consiste em gerenciar documentos, desde a integridade das informações, quanto gerar documentos novos.
@@ -126,7 +133,7 @@ https://user-images.githubusercontent.com/62018632/136726488-b05ca30e-b1ea-434b-
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br>
 
 #### **Contribuições Pessoais**
-Realizei a estruturação de pastas do front e comandei a time de front-end, com tasks majoritariamento utilizando react e pequenas com nodejs.
+Realizei a estruturação de pastas do front e comandei a time de front-end, com tasks majoritariamente utilizando ReactJs e pequenas com Nodejs.
 
 #### **Hard Skills**
 React, javascript - Sei fazer com autonomia.
@@ -136,14 +143,14 @@ Wireframes - Sei fazer com autonomia.
 
 
 #### **Soft Skills**
-Organizar e orientar membros do time em partes tecnicas e de estrutura do projeto.
-Metodologia agil. 
+Organizar e orientar membros do time em partes técnicas e de estrutura do projeto.
+Metodologia ágil. 
 
 ### **Em 2022-1**
-A empresa Embraer propôs um projeto onde deveriamos criar um aplicativo mobile onde teriamos a visualização de FOLs (procedimento para falhas).
+A empresa Embraer propôs um projeto onde deveríamos criar um aplicativo mobile onde teríamos a visualização de FOLs (procedimento para falhas).
 
 **Problema**
-A empresa parceira precisa notificar os motoristas que compraram seus veiculos, com procedimentos padrões em casos de possíveis falhas.
+A empresa parceira precisa notificar os motoristas que compraram seus veículos, com procedimentos padrões em casos de possíveis falhas.
 
  **Solução**
 Foi desenvolvido um aplicativo mobile que facilita a notificação dos motoristas, toda vez que for emitida uma FOLs para um veículo que o motorista possuí, é enviado uma notificação no celular do motorista cadastrado no aplicativo.
@@ -167,7 +174,7 @@ https://user-images.githubusercontent.com/62018632/163511036-9d59f5da-16ba-4b91-
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
 
 #### **Contribuições Pessoais**
-Realizei a integração com o back-end no react-native com o front-end, a tela de login, pesquisa por palavra chave, grafico de horas visualizadas no react web e ajudei nas demais partes, como visualização de pdf e notificação no celular.
+Realizei a integração com o back-end no react-native com o front-end, a tela de login, pesquisa por palavra chave, gráfico de horas visualizadas no react web e ajudei nas demais partes, como visualização de pdf e notificação no celular.
 
 #### **Hard Skills**
 React, javascript - Sei fazer com autonomia.
@@ -178,8 +185,8 @@ Wireframes - Sei fazer com autonomia.
 
 
 #### **Soft Skills**
-Organizar e orientar membros do time em partes tecnicas e de estrutura do projeto.
-Metodologia agil. 
+Organizar e orientar membros do time em partes técnicas e de estrutura do projeto.
+Metodologia ágil. 
 
 
 ### **Meus Principais Conhecimentos**
@@ -195,5 +202,3 @@ Uso AWS e kubernets e escalabilidade de Pods. Dockerização de projetos e build
 ## **Contatos**
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrieltg7)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-teixeira-2238311a3/)
-
-
